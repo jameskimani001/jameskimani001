@@ -1,4 +1,4 @@
-# Hello, I'm [Your Name]! 👋
+# Hello, I'm Techie kim 👋
 
 I'm a passionate Full Stack Developer from Moringa school. I specialize in building modern web applications with JavaScript and Python. I love creating clean, efficient, and scalable code while learning new technologies every day.
 
