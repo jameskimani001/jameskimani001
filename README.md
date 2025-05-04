@@ -52,10 +52,9 @@ Stay tuned for an AI-based tool that helps users get fast summaries and Q&A insi
 
 ## 📫 How to Reach Me
 
-- 📧 Email: [jameskim092t@gmail.com](mailto:jameskim092t@gmail.com)  
-- 🌐 Portfolio: [yourportfolio.com](jkimtech.netlify.app)  
-- 🐦 Twitter: [@yourtwitter](https://twitter.com/yourtwitter)  
-- 💼 LinkedIn: [linkedin.com/in/yourusername](www.linkedin.com/in/james-kimani-124003312)
+- 📧 Email: xjameskim092t@gmail.com)  
+- 🌐 Portfolio: (jkimtech.netlify.app)    
+- 💼 LinkedIn: (www.linkedin.com/in/james-kimani-124003312)
 
 ---
 
